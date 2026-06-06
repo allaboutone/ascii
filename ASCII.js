@@ -55,7 +55,7 @@ var effectWidthLabel = document.getElementById("effectWidthLabel");
 var videoPixels = [];
 var grayscaleDataArray = [];
 
-var fontFamily = "Courier New";
+var fontFamily = "IBM Plex Mono";
 var fontSize;
 //ctx.font;
 
